@@ -1,0 +1,12 @@
+D:\Work\Visual Studio 2010\Projects\BlindGostDemo\BlindGostDemo\bin\Release\BlindGostDemo.exe
+D:\Work\Visual Studio 2010\Projects\BlindGostDemo\BlindGostDemo\bin\Release\BlindGostDemo.pdb
+D:\Work\Visual Studio 2010\Projects\BlindGostDemo\BlindGostDemo\bin\Release\BouncyCastle.Crypto.dll
+D:\Work\Visual Studio 2010\Projects\BlindGostDemo\BlindGostDemo\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Work\Visual Studio 2010\Projects\BlindGostDemo\BlindGostDemo\obj\x86\Release\BlindGostDemo.Form1.resources
+D:\Work\Visual Studio 2010\Projects\BlindGostDemo\BlindGostDemo\obj\x86\Release\BlindGostDemo.Properties.Resources.resources
+D:\Work\Visual Studio 2010\Projects\BlindGostDemo\BlindGostDemo\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+D:\Work\Visual Studio 2010\Projects\BlindGostDemo\BlindGostDemo\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+D:\Work\Visual Studio 2010\Projects\BlindGostDemo\BlindGostDemo\obj\x86\Release\BlindGostDemo.exe
+D:\Work\Visual Studio 2010\Projects\BlindGostDemo\BlindGostDemo\obj\x86\Release\BlindGostDemo.pdb
+C:\Users\Egor\Documents\Visual Studio 2010\Projects\BlindGostDemo\BlindGostDemo\obj\x86\Release\BlindGostDemo.exe
+C:\Users\Egor\Documents\Visual Studio 2010\Projects\BlindGostDemo\BlindGostDemo\obj\x86\Release\BlindGostDemo.pdb

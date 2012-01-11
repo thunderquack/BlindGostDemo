@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BlindGostDemo">
+</Property><Property Name="Файл решения" Value="D:\Work\Visual Studio 2010\Projects\BlindGostDemo\BlindGostDemo.sln">
+</Property><Property Name="Date" Value="10 января 2012 г.">
+</Property><Property Name="Time" Value="15:56:02">
+</Property></Properties><Event ErrorLevel="1" Project="crypto" Source="..\BCastle\crypto\crypto.csproj" Description="Этот проект рассчитан на .NET Framework версии 2.0 или 3.0. Если проект будет использовать сборки, требующие более новую версию .NET Framework, возникнет ошибка построения. Чтобы изменить версию .NET Framework, выберите пункт &quot;Свойства&quot; в меню проекта, затем выберите новую версию в раскрывающемся списке &quot;.NET Framework&quot;. (В Visual Basic этот список находится на вкладке &quot;Компиляция&quot;, открываемой при нажатии кнопки &quot;Дополнительные параметры компилятора&quot;.)">
+</Event><Event ErrorLevel="0" Project="crypto" Source="..\BCastle\crypto\crypto.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="crypto" Source="..\BCastle\crypto\crypto.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="crypto" Source="..\BCastle\crypto\crypto.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>
